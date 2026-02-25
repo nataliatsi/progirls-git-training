@@ -21,11 +21,11 @@ git clone https://github.com/nataliatsi/progirls-git-training.git
 
 O Git vai baixar o repositório do GitHub para sua máquina.
 
-![Git clonando repositório](/progirls-git-training/assets/image2.png)
+![Git clonando repositório](/assets/image2.png)
 
 Você verá que uma nova pasta chamada `progirls-git-training` foi criada.
 
-![Pasta com projeto](/progirls-git-training/assets/image.png)
+![Pasta com projeto](/assets/image.png)
 
 ---
 
@@ -43,7 +43,7 @@ Agora entre na pasta:
 cd progirls-git-training
 ```
 
-![Listar e entrar na pasta do projeto](/progirls-git-training/assets/image3.png)
+![Listar e entrar na pasta do projeto](/assets/image3.png)
 
 ---
 
@@ -102,7 +102,7 @@ No VS Code é possível adicionar ou remover alterações da Staging Area (área
 > A **Staging Area** é a área onde você escolhe quais alterações irão entrar no próximo commit.
 > Só o que estiver no stage será versionado quando você rodar `git commit`.
 
-![Visualizar alterações](/progirls-git-training/assets/image4.png)
+![Visualizar alterações](/assets/image4.png)
 
 * O botão + adiciona a alteração ao stage
 
