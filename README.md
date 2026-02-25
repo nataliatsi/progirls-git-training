@@ -25,6 +25,14 @@ Cada voluntária deve:
 
 <!-- Cada uma deve adicionar sua seção abaixo -->
 
+Exemplo:
+## 🧛🏻‍♀️ Natália
+
+- **Área de interesse**: Desenvolvimento Web (Backend)
+- **Linguagem principal**: Java (+3 anos de exp.)
+- **No projeto quero**: Liderar, estruturar processos e ajudar outras meninas a evoluírem tecnicamente 🫶🏻
+- **Fato curioso**: Já fui editora de imagens (kpop, edits, capas de fanfic 💅) e tive um canal no YouTube sobre isso!
+
 ---
 
 ## 🔥 Desafio Extra
