@@ -26,12 +26,12 @@ Cada voluntária deve:
 <!-- Cada uma deve adicionar sua seção abaixo -->
 
 Exemplo:
-## 🧛🏻‍♀️ Natália
+## Bells
 
-- **Área de interesse**: Desenvolvimento Web (Backend)
-- **Linguagem principal**: Java (+3 anos de exp.)
-- **No projeto quero**: Liderar, estruturar processos e ajudar outras meninas a evoluírem tecnicamente 🫶🏻
-- **Fato curioso**: Já fui editora de imagens (kpop, edits, capas de fanfic 💅) e tive um canal no YouTube sobre isso!
+- **Área de interesse**: Desenvolvimento Web (Front-end) e engenharia de dados
+- **Linguagem principal**: Python, Java, JavaScript
+- **No projeto quero**: Aprender e crescer com mulheres maravilhosas que se tornem amigas.
+- **Fato curioso**: Sou gateira e tenho dois gatos, o Jorge e a Antônia, além disso, estou em transição de carreira e sou redatora há 14 anos.
 
 ---
 
